@@ -1,0 +1,131 @@
+{
+    "dashboard": {
+        "posts": 120,
+        "comments": 30,
+        "likes": 900,
+        "dislikes": 10
+    },
+    "news": [
+        {
+            "id": 1,
+            "title": "New Article 01",
+            "description": "Description 01",
+            "category": "Category 01"
+        },
+        {
+            "id": 2,
+            "title": "New Article 02",
+            "description": "Description 02",
+            "category": "Category 02"
+        },
+        {
+            "id": 3,
+            "title": "New Article 03",
+            "description": "Description 03",
+            "category": "Category 03"
+        },
+        {
+            "id": 4,
+            "title": "New Article 04",
+            "description": "Description 04",
+            "category": "Category 04"
+        },
+        {
+            "id": 5,
+            "title": "New Article 05",
+            "description": "Description 05",
+            "category": "Category 05"
+        },
+        {
+            "id": 6,
+            "title": "New Article 06",
+            "description": "Description 06",
+            "category": "Category 06"
+        },
+        {
+            "id": 7,
+            "title": "New Article 07",
+            "description": "Description 07",
+            "category": "Category 07"
+        },
+        {
+            "id": 8,
+            "title": "New Article 08",
+            "description": "Description 08",
+            "category": "Category 08"
+        },
+        {
+            "id": 9,
+            "title": "New Article 09",
+            "description": "Description 09",
+            "category": "Category 09"
+        },
+        {
+            "id": 10,
+            "title": "New Article 10",
+            "description": "Description 10",
+            "category": "Category 10"
+        },
+        {
+            "id": 11,
+            "title": "New Article 11",
+            "description": "Description 11",
+            "category": "Category 11"
+        },
+        {
+            "id": 12,
+            "title": "New Article 12",
+            "description": "Description 12",
+            "category": "Category 12"
+        },
+        {
+            "id": 13,
+            "title": "New Article 13",
+            "description": "Description 13",
+            "category": "Category 13"
+        },
+        {
+            "id": 14,
+            "title": "New Article 14",
+            "description": "Description 14",
+            "category": "Category 14"
+        },
+        {
+            "id": 15,
+            "title": "New Article 15",
+            "description": "Description 15",
+            "category": "Category 15"
+        },
+        {
+            "id": 16,
+            "title": "New Article 16",
+            "description": "Description 16",
+            "category": "Category 16"
+        },
+        {
+            "id": 17,
+            "title": "New Article 17",
+            "description": "Description 17",
+            "category": "Category 17"
+        },
+        {
+            "id": 18,
+            "title": "New Article 18",
+            "description": "Description 18",
+            "category": "Category 18"
+        },
+        {
+            "id": 19,
+            "title": "New Article 19",
+            "description": "Description 19",
+            "category": "Category 19"
+        },
+        {
+            "id": 20,
+            "title": "New Article 20",
+            "description": "Description 20",
+            "category": "Category 20"
+        }
+    ],
+    "products": []
+}

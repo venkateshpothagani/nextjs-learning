@@ -1,0 +1,31 @@
+{
+    "name": "simple-app",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start",
+        "lint": "next lint",
+        "database": "json-server --watch db.json --port 4000"
+    },
+    "dependencies": {
+        "@next/font": "13.1.6",
+        "@types/node": "18.11.18",
+        "@types/react": "18.0.27",
+        "@types/react-dom": "18.0.10",
+        "bootstrap": "^5.2.3",
+        "eslint": "8.33.0",
+        "eslint-config-next": "13.1.6",
+        "json-server": "^0.17.1",
+        "next": "13.1.6",
+        "next-auth": "^4.19.2",
+        "react": "18.2.0",
+        "react-dom": "18.2.0",
+        "swr": "^2.0.3",
+        "typescript": "4.9.5"
+    },
+    "devDependencies": {
+        "@types/json-server": "^0.14.4"
+    }
+}
